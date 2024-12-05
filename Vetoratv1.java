@@ -8,7 +8,6 @@ import java.util.Scanner;
 
 /**
  *
- * @author gustavowz
  */
 public class Vetoratv1 {
 
